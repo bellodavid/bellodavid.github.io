@@ -76,7 +76,7 @@ export default function Home() {
         <OrderedList>
           <ListItem>
             <Heading as={"h3"} size={"sm"}>
-              CBK - Frontend Engineer{" "}
+              CBK - Frontend Software Engineer{" "}
               <em>(July 2019 - Aug. 2022)</em>
             </Heading>
             <Text>

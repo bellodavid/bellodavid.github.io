@@ -71,9 +71,7 @@ export default function HomeLayout(props: Props) {
           </IconButton>
            <NextLink href={"https://github.com/bellodavid"} passHref>
             <Link
-              textDecor={
-                pathname === ""
-              }
+             
             >
              <IconButton
             icon={<BsGithub />}
@@ -85,9 +83,7 @@ export default function HomeLayout(props: Props) {
           </NextLink>
           <NextLink href={"https://www.linkedin.com/in/davidbello5/"} passHref>
             <Link
-              textDecor={
-                pathname === ""
-              }
+             
             >
              <IconButton
             icon={<BsLinkedin />}
@@ -99,9 +95,7 @@ export default function HomeLayout(props: Props) {
           </NextLink>
           <NextLink href={"https://twitter.com/davidbello_"} passHref>
             <Link
-              textDecor={
-                pathname === ""
-              }
+             
             >
              <IconButton
             icon={<BsTwitter />}

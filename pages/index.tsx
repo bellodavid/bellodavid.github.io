@@ -84,7 +84,7 @@ export default function Home() {
             </Text>
             <Text>
             •  Set up full stacked ecommerce web application which improved sales by 80% using React.js and
-MongoDB.
+MongoDB
             </Text>
             <Text>
             •  Integrated payment gateway which improved the quality of service by 80% using Paystack dev. API

@@ -145,7 +145,7 @@ production by 80% by writing component and integration tests using Jest and Play
           target={"_blank"}
           textDecoration={"underline"}
         >
-          View my resume
+          View my Resume
           
         </Link>
       </Box>

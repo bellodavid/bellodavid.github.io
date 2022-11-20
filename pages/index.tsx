@@ -105,6 +105,20 @@ production by 80% by writing component and integration tests using Jest and Play
         </Heading>
 
         <OrderedList>
+        <ListItem>
+            <Heading as={"h3"} size={"sm"}>
+              <Link
+                href="https://codetrix.netlify.app/
+"
+                textDecoration={"underline"}
+              >
+                CODETRIX
+              </Link>
+            </Heading>
+            <Text>
+            Online code editor
+            </Text>
+          </ListItem>
           <ListItem>
             <Heading as={"h3"} size={"sm"}>
               <Link
@@ -112,7 +126,7 @@ production by 80% by writing component and integration tests using Jest and Play
 "
                 textDecoration={"underline"}
               >
-                KRYPTAGON
+                CRYPTAGON
               </Link>
             </Heading>
             <Text>

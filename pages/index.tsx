@@ -17,12 +17,12 @@ export default function Home() {
         </Heading>
 
         <Text mb={".5rem"}>
-          I'm a Frontend Developer, Open source contributor and Technical
+          I'm a Full stack developer, Open source contributor and Technical
           writer.
         </Text>
         <Text mb={".5rem"}>
           I create interactive experiences for amazing people using modern web
-          technology.
+          and mobile technology.
         </Text>
       </Box>
       <Box mb={"2rem"}>
